@@ -1,0 +1,2 @@
+- implementing a toy version of this paper https://www.cs.cmu.edu/~natassa/courses/15-721/papers/arcfast.pdf
+- got inspired to implement this paper after watching this presentation on paper we love https://youtu.be/F8sZRBdmqc0?si=bLOubcwy8mAF9lN4
